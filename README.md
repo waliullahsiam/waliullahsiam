@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi there! I'm waliullah siam a tech lover and a competitive programmer.<br>I believe in collaboration more than competition.</div>  
+### <div align="center">Welcome! I'm delighted that you've visited my profile. Feel free to browse through my work, projects<br>I believe in collaboration more than competition.</div>  
   
 
 - 🔭 I’m currently researching on ONDC(open network for digital commerce) and learning DSA from core.  
@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning C++,Data structure and algorithm along with Numerical analysis.  
   
 
-- ❓ Ask me about anything related to Competitive programming and advanced DSA.  
+- ❓ Ask me about anything related to Competitive programming and advance DSA.  
   
 
-- ⚡ Fun fact: "No magic just logic"--life of a programmer  
+- ⚡ Fun fact: "Behind every magic there is a logic"--life of a programmer  
   
 
 <br/>  
