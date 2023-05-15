@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi there! I'm waliullah siam a tech lover and a competitive programmer.I believe in collaboration more than competition.</div>  
+### <div align="center">Hi there! I'm waliullah siam a tech lover and a competitive programmer.<br>I believe in collaboration more than competition.</div>  
   
 
 - 🔭 I’m currently researching on ONDC(open network for digital commerce) and learning DSA from core.  
@@ -86,22 +86,3 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
